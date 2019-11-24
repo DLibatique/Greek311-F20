@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+include:          ['_pages']
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Aeschines' Against Timarchus
+tagline:          "Aeschines' Against Timarchus"
+course_number:    'Greek 311'
+semester:         'Fall 2020'
+location:         'Reed College'
+url:              https://dlibatique.github.io/Greek311-F20
+baseurl:          /
+
+author:
+  name:           'Daniel Libatique'
+  url:            https://dlibatique.github.io
+
+version:          2.2.0
+
+github:
+  repo:           https://github.com/dlibatique/Greek311-F20
