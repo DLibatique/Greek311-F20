@@ -11,6 +11,7 @@ All assignments listed below should be completed for the date under which they'r
 ## Week 1 - T 9/1, Th 9/3
 
 ### T 9/1 - Introduction: Aeschines, Timarchus, and the Lay of the Land
+- Read Fisher’s introduction (pp. 1-68), noting important characters, events, and concepts relating to the trial.
 
 ### Th 9/3
 - Translate Aeschines *In Timarchum* 1-2.
